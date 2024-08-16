@@ -615,18 +615,18 @@ function simulate () {
 		NAMESPACE.round++;
 	}
 
-	// prevent displaying "Round 16" at end of draft
+	// prevent displaying "Round 14" at end of draft
 	var round = NAMESPACE.round;
-	if (round > 15) {
-		round = 15;
+	if (round > 13) {
+		round = 13;
 	};
 
 	// display draft round for user
 	var instructions = document.getElementById('instructions');
 	instructions.textContent = "Select your player for round " + round + ".";
 
-	// end draft after 15 rounds
-	if (NAMESPACE.round > 15) {
+	// end draft after 13 rounds
+	if (NAMESPACE.round > 13) {
 		endDraft();
 		return;
 	};
