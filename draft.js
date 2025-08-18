@@ -46,7 +46,8 @@ function config (preset) {
 	if (preset == "rox17") {
 		keepers.value = 1;
 		teams.value = 12;
-		var players = [["Kyren Williams", 13], ["George Pickens", 7], ["CeeDee Lamb", 2], ["Sam LaPorta", 13], ["Amon-Ra St. Brown", 5], ["Tank Dell", 13], ["Breece Hall", 4], ["Puka Nacua", 13], ["Garrett Wilson", 5], ["De'Von Achane", 9], ["Nico Collins", 10], ["Josh Allen", 3]];
+		// 2025 order = Travis, Bossard, Nick, Tyler, Joe, John, Cory, Greg, Dan Dodd, Robbie, Chris, Me
+		var players = [["Brian Thomas Jr.", 13], ["Brock Bowers", 9], ["Kyren Williams", 9], ["Chase Brown", 8], ["Bucky Irving", 11], ["Nico Collins", 6], ["Puka Nacua", 9], ["Darnell Mooney", 13], ["Malik Nabers", 3], ["Joe Burrow", 8], ["Jerry Jeudy", 12], ["Ladd McConkey", 9]];
 	};
 	
 	// parent of the all the keeper selection dropdowns
