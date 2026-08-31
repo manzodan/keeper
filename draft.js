@@ -80,10 +80,13 @@ function config (preset) {
 
 			// team titles
 			var teamNumber = i + 1;
+			var teamGroup = document.createElement('div');
+			teamGroup.className = 'team-keeper-group';
 			var team = document.createElement('p');
 			var teamText = document.createTextNode("Team " + teamNumber);
 			team.appendChild(teamText);
-			parent.appendChild(team);
+			teamGroup.appendChild(team);
+			parent.appendChild(teamGroup);
 
 			// populate the dropdown options
 			for (var j = 0; j < keepers.value; j++) {
@@ -129,10 +132,8 @@ function config (preset) {
 				}
 
 				// append it all
-				parent.appendChild(selectKeeper);
-				parent.appendChild(selectRound);
-				var newLine = document.createElement('br');
-				parent.appendChild(newLine);
+				teamGroup.appendChild(selectKeeper);
+				teamGroup.appendChild(selectRound);
 			}
 		}
 	}; // end of if
