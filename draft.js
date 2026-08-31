@@ -47,20 +47,20 @@ function config (preset) {
 		keepers.value = 1;
 		teams.value = 12;
 		// 2026 order not set yet, but keeping same as last year (Theo in for Joe)
-		// Travis, Bossard, Nick, Tyler, Theo, John, Cory, Greg, Dan Dodd, Robbie, Chris, Me
+		// Dodd, Bossard, Travis, Chris, Robbie, Tyler, Greg, John, Me, Theo, Nick, Cory
 		var players = [
-			["Josh Allen", 2],
-			["Brock Bowers", 4],
-			["Luther Burden III", 11],
-			["Jaxon Smith-Njigba", 2],
-			["Zay Flowers", 5],
-			["Kenneth Walker III", 3],
-			["Puka Nacua", 4],
-			["Chris Olave", 5],
 			["Cam Skattebo", 10],
-			["Quentin Johnston", 14],
+			["Brock Bowers", 4],
+			["Josh Allen", 2],
 			["James Cook III", 2],
-			["Bucky Irving", 6]
+			["Quentin Johnston", 13],
+			["Jaxon Smith-Njigba", 2],
+			["Chris Olave", 5],
+			["Kenneth Walker III", 3],
+			["Bucky Irving", 6],
+			["Zay Flowers", 5],
+			["Luther Burden III", 11],
+			["Puka Nacua", 4]
 		];
 	};
 	
