@@ -1,8 +1,7 @@
 // get json parsed rankings using ajax
 function startDraft () {
 	// static snapshot file used for the app because the public FantasyPros feed is limited and defaults to a short DST-heavy list
-	//var url = 'https://raw.githubusercontent.com/manzodan/keeper/master/rankings.json';
-	var url = './rankings.json';
+	var url = 'https://raw.githubusercontent.com/manzodan/keeper/master/rankings.json';
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function () {
 		if (xhr.readyState === 4 && xhr.status === 200) {
