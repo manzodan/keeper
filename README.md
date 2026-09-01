@@ -18,12 +18,17 @@ It's super easy!
 Rankings
 ========
 
-Player rankings are downloaded from [Fantasy Pros](http://www.fantasypros.com/nfl/rankings/consensus-cheatsheets.php) as an xls file and then converted to JSON using [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/). Rankings are current as of the last commit for the rankings.json file.
+Player rankings are loaded from the FantasyPros public v2 rankings API via a small local server. The actual API key is stored in the server environment as `FANTASYPROS_API_KEY` and is never exposed to the browser.
 
-Easy Excel Formula for removing numbers from player positions:
-=IF(LEFT(E2,3)="DST", LEFT(E2,3), IF(LEFT(E2,1)="K", LEFT(E2,1), LEFT(E2,2)))
+To run locally:
 
-States that if PosRank starts with DST take 3 letters, if PosRank starts with K take 1 letter, else take 2 letters (RB, WR, TE)
+1. Set the environment variable in your shell:
+   export FANTASYPROS_API_KEY="YOUR_API_KEY"
+2. Start the app:
+   npm start
+3. Open the page in a browser.
+
+The legacy rankings.json file is no longer the source of truth for the draft.
 
 League Presets
 ==============

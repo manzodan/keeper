@@ -1,0 +1,41 @@
+name: Update rankings snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  refresh-rankings:
+    runs-on: ubuntu-latest
+    environment: production
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Refresh rankings snapshot
+        env:
+          FANTASYPROS_API_KEY: ${{ secrets.FANTASYPROS_API_KEY }}
+        run: node scripts/refresh-rankings.js
+
+      - name: Commit updated rankings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- rankings.json; then
+            echo "No rankings changes to commit"
+            exit 0
+          fi
+
+          git add rankings.json
+          git commit -m "Refresh rankings snapshot"
+          git push
