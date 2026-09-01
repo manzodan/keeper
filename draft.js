@@ -1,9 +1,6 @@
 // get json parsed rankings using ajax
 function startDraft () {
-	// http://localhost/keeper/rankings.json
-	// http://trevorpostma.com/keeper/rankings.json
-	// url is rankings.json hosted on internet
-	// 2020 ranks = https://api.jsonbin.io/b/5f3b260baf209d1016bd98d9
+	// static snapshot file used for the app because the public FantasyPros feed is limited and defaults to a short DST-heavy list
 	var url = 'https://raw.githubusercontent.com/manzodan/keeper/master/rankings.json';
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function () {
@@ -58,7 +55,7 @@ function config (preset) {
 			["Colston Loveland", 11],
 			["Kenneth Walker III", 3],
 			["Bucky Irving", 6],
-			["Kyle Monongai", 12],
+			["Kyle Monangai", 12],
 			["Luther Burden III", 11],
 			["Puka Nacua", 4]
 		];
