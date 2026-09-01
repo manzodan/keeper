@@ -49,16 +49,16 @@ function config (preset) {
 		// 2026 order not set yet, but keeping same as last year (Theo in for Joe)
 		// Dodd, Bossard, Travis, Chris, Robbie, Tyler, Greg, John, Me, Theo, Nick, Cory
 		var players = [
-			["Cam Skattebo", 10],
+			["Christian Watson", 13],
 			["Brock Bowers", 4],
-			["Josh Allen", 2],
+			["Quinshon Judkins", 9],
 			["James Cook III", 2],
-			["Quentin Johnston", 13],
+			["Rome Odunze", 6],
 			["Jaxon Smith-Njigba", 2],
-			["Chris Olave", 5],
+			["Colston Loveland", 11],
 			["Kenneth Walker III", 3],
 			["Bucky Irving", 6],
-			["Zay Flowers", 5],
+			["Kyle Monongai", 12],
 			["Luther Burden III", 11],
 			["Puka Nacua", 4]
 		];
@@ -80,10 +80,13 @@ function config (preset) {
 
 			// team titles
 			var teamNumber = i + 1;
+			var teamGroup = document.createElement('div');
+			teamGroup.className = 'team-keeper-group';
 			var team = document.createElement('p');
 			var teamText = document.createTextNode("Team " + teamNumber);
 			team.appendChild(teamText);
-			parent.appendChild(team);
+			teamGroup.appendChild(team);
+			parent.appendChild(teamGroup);
 
 			// populate the dropdown options
 			for (var j = 0; j < keepers.value; j++) {
@@ -129,10 +132,8 @@ function config (preset) {
 				}
 
 				// append it all
-				parent.appendChild(selectKeeper);
-				parent.appendChild(selectRound);
-				var newLine = document.createElement('br');
-				parent.appendChild(newLine);
+				teamGroup.appendChild(selectKeeper);
+				teamGroup.appendChild(selectRound);
 			}
 		}
 	}; // end of if
