@@ -49,16 +49,16 @@ function config (preset) {
 		// 2026 order not set yet, but keeping same as last year (Theo in for Joe)
 		// Dodd, Bossard, Travis, Chris, Robbie, Tyler, Greg, John, Me, Theo, Nick, Cory
 		var players = [
-			["Cam Skattebo", 10],
+			["Christian Watson", 13],
 			["Brock Bowers", 4],
-			["Josh Allen", 2],
+			["Quinshon Judkins", 9],
 			["James Cook III", 2],
-			["Quentin Johnston", 13],
+			["Rome Odunze", 6],
 			["Jaxon Smith-Njigba", 2],
-			["Chris Olave", 5],
+			["Colston Loveland", 11],
 			["Kenneth Walker III", 3],
 			["Bucky Irving", 6],
-			["Zay Flowers", 5],
+			["Kyle Monongai", 12],
 			["Luther Burden III", 11],
 			["Puka Nacua", 4]
 		];
