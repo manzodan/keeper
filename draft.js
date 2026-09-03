@@ -582,6 +582,7 @@ function availablePlayers (r, position) {
 			}
 			text = document.createTextNode(playerRank + ". ");
 			anchor = document.createElement("a");
+			anchor.className = playerPosition.toLowerCase();
 			link = document.createTextNode(
 				playerPosition + " " +
 				playerName + " " +
@@ -894,6 +895,8 @@ function endDraft () {
 		// add the selected player from the draft results
 		var p = document.createElement('p');
 		var text = document.createTextNode(NAMESPACE.results[i]);
+		var resultPosition = NAMESPACE.results[i].split(' ')[0].toLowerCase();
+		p.className = resultPosition;
 		p.appendChild(text);
 		resultsDiv.appendChild(p);
 	}
