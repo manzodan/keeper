@@ -551,6 +551,13 @@ function availablePlayers (r, position) {
 	var playerRank, playerName, playerPosition, playerTeam, p, text, anchor, link;
 	var parent = document.getElementById('players');
 	var children = parent.getElementsByTagName('p');
+	var expandButton = document.getElementById('expandPlayers');
+	var visiblePlayerLimit = 20;
+	var matchingPlayers = 0;
+
+	if (expandButton != null) {
+		expandButton.remove();
+	}
 
 	// clear the list after each selection
 	while (children[0] != undefined) {
@@ -569,6 +576,10 @@ function availablePlayers (r, position) {
 		// add a player if they match the position filter, or if all is selected
 		if (playerPosition.toLowerCase() == position || position == 'all') {
 			p = document.createElement("p");
+			if (matchingPlayers >= visiblePlayerLimit) {
+				p.hidden = true;
+				p.className = 'hidden-player';
+			}
 			text = document.createTextNode(playerRank + ". ");
 			anchor = document.createElement("a");
 			link = document.createTextNode(
@@ -581,11 +592,33 @@ function availablePlayers (r, position) {
 			p.appendChild(text);
 			p.appendChild(anchor);
 			parent.appendChild(p);
+			matchingPlayers++;
 		};
 	};
 
+	if (matchingPlayers > visiblePlayerLimit) {
+		expandButton = document.createElement('button');
+		expandButton.id = 'expandPlayers';
+		expandButton.type = 'button';
+		expandButton.textContent = 'Show all players';
+		expandButton.onclick = toggleAvailablePlayers;
+		parent.appendChild(expandButton);
+	}
+
 	// add onclick events to each player
 	addPlayerClicks();
+}
+
+// expand or collapse the available player list
+function toggleAvailablePlayers () {
+	var hiddenPlayers = document.getElementById('players').getElementsByClassName('hidden-player');
+	var expanded = this.textContent == 'Show fewer players';
+
+	for (var i = 0; i < hiddenPlayers.length; i++) {
+		hiddenPlayers[i].hidden = expanded;
+	}
+
+	this.textContent = expanded ? 'Show all players' : 'Show fewer players';
 }
 
 // add the onclick event to all the list of available players
@@ -700,6 +733,13 @@ function simulate () {
 				NAMESPACE.teams[nextTeam]["count"] += 1;
 				NAMESPACE.results.push(nextPlayer);
 				nextPlayerNode.remove();
+
+				// keep the visible list filled after an automated pick
+				var hiddenPlayers = document.getElementById('players').getElementsByClassName('hidden-player');
+				if (hiddenPlayers.length > 0) {
+					hiddenPlayers[0].hidden = false;
+					hiddenPlayers[0].className = '';
+				}
 
 				// remove the selected player from the official rankings
 				offTheBoard(player);
