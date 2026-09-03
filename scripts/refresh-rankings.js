@@ -84,7 +84,15 @@ function parsePlayersFromHtml(html) {
 
 function normalizePlayer(player, fallbackPosition) {
   const playerName = player.player_name || player.Player || '';
-  const position = String(player.player_position_id || player.player_positions || player.position_id || fallbackPosition || '').toUpperCase();
+  let position = String(player.player_position_id || player.player_positions || player.position_id || fallbackPosition || '').toUpperCase();
+  
+  // Extract only the first position if multiple are present (separated by comma or slash)
+  if (position.includes(',')) {
+    position = position.split(',')[0].trim();
+  } else if (position.includes('/')) {
+    position = position.split('/')[0].trim();
+  }
+  
   const team = player.player_team_id || player.team_id || player.Team || '';
 
   if (!playerName || !team || !position) {
