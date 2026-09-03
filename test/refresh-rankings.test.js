@@ -1,6 +1,13 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { parsePlayersFromHtml } = require('../scripts/refresh-rankings.js');
+const { parsePlayersFromHtml, buildFantasyProsRankingsUrl } = require('../scripts/refresh-rankings.js');
+
+test('buildFantasyProsRankingsUrl includes a valid position filter', () => {
+  const url = buildFantasyProsRankingsUrl();
+
+  assert.match(url, /position=ALL/i);
+  assert.match(url, /consensus-rankings\?/i);
+});
 
 test('parsePlayersFromHtml extracts the live half-point PPR rankings payload', () => {
   const html = `

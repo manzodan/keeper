@@ -5,6 +5,17 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const OUTPUT_PATH = path.join(ROOT_DIR, 'rankings.json');
 const POSITIONS = ['QB', 'RB', 'WR', 'TE'];
 const FANTASYPROS_HALF_PPR_URL = 'https://www.fantasypros.com/nfl/rankings/half-point-ppr-cheatsheets.php';
+const FANTASYPROS_CONSENSUS_URL = 'https://api.fantasypros.com/public/v2/json/nfl/2026/consensus-rankings';
+
+function buildFantasyProsRankingsUrl(position = 'ALL') {
+  const url = new URL(FANTASYPROS_CONSENSUS_URL);
+  url.searchParams.set('position', position);
+  url.searchParams.set('scoring', 'HALF');
+  url.searchParams.set('week', '0');
+  url.searchParams.set('experts', 'show');
+  url.searchParams.set('limit', '500');
+  return url.toString();
+}
 
 async function fetchText(url, headers = {}) {
   const response = await fetch(url, {
@@ -117,7 +128,7 @@ async function fetchPlayers() {
   const apiKey = process.env.FANTASYPROS_API_KEY;
 
   if (apiKey) {
-    const data = await fetchJson('https://api.fantasypros.com/public/v2/json/nfl/2026/consensus-rankings?scoring=HALF&week=0&experts=show&limit=500', {
+    const data = await fetchJson(buildFantasyProsRankingsUrl('ALL'), {
       'x-api-key': apiKey,
       Accept: 'application/json',
     });
@@ -182,6 +193,7 @@ if (require.main === module) {
 }
 
 module.exports = {
+  buildFantasyProsRankingsUrl,
   extractPlayersArray,
   normalizePlayer,
   parsePlayersFromHtml,
