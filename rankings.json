@@ -2283,9 +2283,9 @@
     "Rank": 324,
     "Player": "Jarquez Hunter",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIA",
     "PosRank": "RB99",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 325,
@@ -3883,9 +3883,9 @@
     "Rank": 554,
     "Player": "Ben Sims",
     "Pos": "TE",
-    "Team": "MIA",
+    "Team": "FA",
     "PosRank": "TE105",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 555,
@@ -3971,9 +3971,9 @@
     "Rank": 565,
     "Player": "Jalen Reagor",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIA",
     "PosRank": "WR196",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 566,
@@ -4755,9 +4755,9 @@
     "Rank": 665,
     "Player": "Carlos Washington Jr.",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIA",
     "PosRank": "RB172",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 666,
@@ -4817,11 +4817,11 @@
   },
   {
     "Rank": 673,
-    "Player": "Nathan Carter",
+    "Player": "Nate Carter",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "KC",
     "PosRank": "RB174",
-    "Bye": 0
+    "Bye": 5
   },
   {
     "Rank": 675,
@@ -6059,9 +6059,9 @@
     "Rank": 829,
     "Player": "Bryson Nesbit",
     "Pos": "TE",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "TE179",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 830,
@@ -6091,9 +6091,9 @@
     "Rank": 833,
     "Player": "Sean McKeon",
     "Pos": "TE",
-    "Team": "IND",
+    "Team": "FA",
     "PosRank": "TE182",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 834,
@@ -6547,9 +6547,9 @@
     "Rank": 890,
     "Player": "Dontae Fleming",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "WR292",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 891,
