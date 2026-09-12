@@ -4899,9 +4899,9 @@
     "Rank": 684,
     "Player": "Jermar Jefferson",
     "Pos": "RB",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "RB176",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 685,
@@ -4963,9 +4963,9 @@
     "Rank": 692,
     "Player": "Jamari Thrash",
     "Pos": "WR",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "WR235",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 693,
@@ -6667,9 +6667,9 @@
     "Rank": 905,
     "Player": "Xavier Gipson",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "PHI",
     "PosRank": "WR301",
-    "Bye": 0
+    "Bye": 10
   },
   {
     "Rank": 906,
