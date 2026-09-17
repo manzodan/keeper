@@ -2315,9 +2315,9 @@
     "Rank": 329,
     "Player": "Jerome Ford",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "RB100",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 330,
@@ -3555,9 +3555,9 @@
     "Rank": 506,
     "Player": "Khalil Herbert",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "ATL",
     "PosRank": "RB133",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 507,
@@ -7107,9 +7107,9 @@
     "Rank": 960,
     "Player": "Dalen Cambre",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "NYG",
     "PosRank": "WR331",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 961,
