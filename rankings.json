@@ -265,14 +265,6 @@
   },
   {
     "Rank": 34,
-    "Player": "Lamar Jackson",
-    "Pos": "QB",
-    "Team": "BAL",
-    "PosRank": "QB2",
-    "Bye": 13
-  },
-  {
-    "Rank": 35,
     "Player": "Breece Hall",
     "Pos": "RB",
     "Team": "NYJ",
@@ -280,20 +272,28 @@
     "Bye": 13
   },
   {
-    "Rank": 36,
-    "Player": "Brock Bowers",
-    "Pos": "TE",
-    "Team": "LV",
-    "PosRank": "TE3",
+    "Rank": 35,
+    "Player": "Lamar Jackson",
+    "Pos": "QB",
+    "Team": "BAL",
+    "PosRank": "QB2",
     "Bye": 13
   },
   {
-    "Rank": 37,
+    "Rank": 36,
     "Player": "Jaylen Waddle",
     "Pos": "WR",
     "Team": "DEN",
     "PosRank": "WR17",
     "Bye": 10
+  },
+  {
+    "Rank": 37,
+    "Player": "Brock Bowers",
+    "Pos": "TE",
+    "Team": "LV",
+    "PosRank": "TE3",
+    "Bye": 13
   },
   {
     "Rank": 38,
@@ -337,19 +337,19 @@
   },
   {
     "Rank": 43,
-    "Player": "Travis Etienne Jr.",
-    "Pos": "RB",
-    "Team": "NO",
-    "PosRank": "RB17",
-    "Bye": 8
-  },
-  {
-    "Rank": 44,
     "Player": "Drake Maye",
     "Pos": "QB",
     "Team": "NE",
     "PosRank": "QB3",
     "Bye": 11
+  },
+  {
+    "Rank": 44,
+    "Player": "Travis Etienne Jr.",
+    "Pos": "RB",
+    "Team": "NO",
+    "PosRank": "RB17",
+    "Bye": 8
   },
   {
     "Rank": 45,
@@ -705,19 +705,19 @@
   },
   {
     "Rank": 89,
-    "Player": "Chuba Hubbard",
-    "Pos": "RB",
-    "Team": "CAR",
-    "PosRank": "RB33",
-    "Bye": 5
-  },
-  {
-    "Rank": 90,
     "Player": "Michael Pittman Jr.",
     "Pos": "WR",
     "Team": "PIT",
     "PosRank": "WR39",
     "Bye": 9
+  },
+  {
+    "Rank": 90,
+    "Player": "Chuba Hubbard",
+    "Pos": "RB",
+    "Team": "CAR",
+    "PosRank": "RB33",
+    "Bye": 5
   },
   {
     "Rank": 91,
@@ -841,19 +841,19 @@
   },
   {
     "Rank": 106,
-    "Player": "Wan'Dale Robinson",
-    "Pos": "WR",
-    "Team": "TEN",
-    "PosRank": "WR44",
-    "Bye": 9
-  },
-  {
-    "Rank": 107,
     "Player": "Kenny Gainwell",
     "Pos": "RB",
     "Team": "TB",
     "PosRank": "RB38",
     "Bye": 10
+  },
+  {
+    "Rank": 107,
+    "Player": "Wan'Dale Robinson",
+    "Pos": "WR",
+    "Team": "TEN",
+    "PosRank": "WR44",
+    "Bye": 9
   },
   {
     "Rank": 108,
@@ -1153,19 +1153,19 @@
   },
   {
     "Rank": 145,
-    "Player": "Keaton Mitchell",
-    "Pos": "RB",
-    "Team": "LAC",
-    "PosRank": "RB49",
-    "Bye": 7
-  },
-  {
-    "Rank": 146,
     "Player": "Tre Tucker",
     "Pos": "WR",
     "Team": "LV",
     "PosRank": "WR57",
     "Bye": 13
+  },
+  {
+    "Rank": 146,
+    "Player": "Keaton Mitchell",
+    "Pos": "RB",
+    "Team": "LAC",
+    "PosRank": "RB49",
+    "Bye": 7
   },
   {
     "Rank": 147,
@@ -1440,7 +1440,7 @@
     "Bye": 13
   },
   {
-    "Rank": 184,
+    "Rank": 183,
     "Player": "Omar Cooper Jr.",
     "Pos": "WR",
     "Team": "NYJ",
@@ -1520,7 +1520,7 @@
     "Bye": 10
   },
   {
-    "Rank": 203,
+    "Rank": 201,
     "Player": "Chris Bell",
     "Pos": "WR",
     "Team": "MIA",
@@ -1560,7 +1560,7 @@
     "Bye": 13
   },
   {
-    "Rank": 211,
+    "Rank": 210,
     "Player": "Kaytron Allen",
     "Pos": "RB",
     "Team": "WAS",
@@ -1688,7 +1688,7 @@
     "Bye": 11
   },
   {
-    "Rank": 234,
+    "Rank": 233,
     "Player": "Samaje Perine",
     "Pos": "RB",
     "Team": "CIN",
@@ -1752,20 +1752,20 @@
     "Bye": 10
   },
   {
-    "Rank": 247,
-    "Player": "Demond Claiborne",
-    "Pos": "RB",
-    "Team": "MIN",
-    "PosRank": "RB74",
-    "Bye": 6
-  },
-  {
-    "Rank": 248,
+    "Rank": 246,
     "Player": "James Conner",
     "Pos": "RB",
     "Team": "ARI",
-    "PosRank": "RB75",
+    "PosRank": "RB74",
     "Bye": 14
+  },
+  {
+    "Rank": 248,
+    "Player": "Demond Claiborne",
+    "Pos": "RB",
+    "Team": "MIN",
+    "PosRank": "RB75",
+    "Bye": 6
   },
   {
     "Rank": 249,
@@ -1784,19 +1784,19 @@
     "Bye": 10
   },
   {
-    "Rank": 253,
-    "Player": "Keon Coleman",
-    "Pos": "WR",
-    "Team": "BUF",
-    "PosRank": "WR89",
-    "Bye": 7
-  },
-  {
-    "Rank": 254,
+    "Rank": 252,
     "Player": "David Njoku",
     "Pos": "TE",
     "Team": "LAC",
     "PosRank": "TE31",
+    "Bye": 7
+  },
+  {
+    "Rank": 254,
+    "Player": "Keon Coleman",
+    "Pos": "WR",
+    "Team": "BUF",
+    "PosRank": "WR89",
     "Bye": 7
   },
   {
@@ -1921,19 +1921,19 @@
   },
   {
     "Rank": 274,
-    "Player": "Shedeur Sanders",
-    "Pos": "QB",
-    "Team": "CLE",
-    "PosRank": "QB34",
-    "Bye": 11
-  },
-  {
-    "Rank": 275,
     "Player": "Xavier Legette",
     "Pos": "WR",
     "Team": "CAR",
     "PosRank": "WR94",
     "Bye": 5
+  },
+  {
+    "Rank": 275,
+    "Player": "Shedeur Sanders",
+    "Pos": "QB",
+    "Team": "CLE",
+    "PosRank": "QB34",
+    "Bye": 11
   },
   {
     "Rank": 276,
@@ -2097,35 +2097,35 @@
   },
   {
     "Rank": 299,
-    "Player": "Christian Kirk",
-    "Pos": "WR",
-    "Team": "SF",
-    "PosRank": "WR106",
-    "Bye": 8
-  },
-  {
-    "Rank": 301,
     "Player": "Skyler Bell",
     "Pos": "WR",
     "Team": "BUF",
-    "PosRank": "WR107",
+    "PosRank": "WR106",
     "Bye": 7
   },
   {
-    "Rank": 302,
-    "Player": "Mike Gesicki",
-    "Pos": "TE",
-    "Team": "CIN",
-    "PosRank": "TE35",
-    "Bye": 6
+    "Rank": 300,
+    "Player": "Christian Kirk",
+    "Pos": "WR",
+    "Team": "SF",
+    "PosRank": "WR107",
+    "Bye": 8
   },
   {
-    "Rank": 303,
+    "Rank": 302,
     "Player": "Trevor Etienne",
     "Pos": "RB",
     "Team": "CAR",
     "PosRank": "RB89",
     "Bye": 5
+  },
+  {
+    "Rank": 303,
+    "Player": "Mike Gesicki",
+    "Pos": "TE",
+    "Team": "CIN",
+    "PosRank": "TE35",
+    "Bye": 6
   },
   {
     "Rank": 304,
@@ -2153,14 +2153,6 @@
   },
   {
     "Rank": 307,
-    "Player": "Michael Mayer",
-    "Pos": "TE",
-    "Team": "LV",
-    "PosRank": "TE37",
-    "Bye": 13
-  },
-  {
-    "Rank": 308,
     "Player": "Jaydon Blue",
     "Pos": "RB",
     "Team": "PHI",
@@ -2168,12 +2160,20 @@
     "Bye": 10
   },
   {
-    "Rank": 309,
+    "Rank": 308,
     "Player": "Darren Waller",
     "Pos": "TE",
     "Team": "CAR",
-    "PosRank": "TE38",
+    "PosRank": "TE37",
     "Bye": 5
+  },
+  {
+    "Rank": 309,
+    "Player": "Michael Mayer",
+    "Pos": "TE",
+    "Team": "LV",
+    "PosRank": "TE38",
+    "Bye": 13
   },
   {
     "Rank": 310,
@@ -2224,7 +2224,7 @@
     "Bye": 8
   },
   {
-    "Rank": 317,
+    "Rank": 316,
     "Player": "Jacob Saylors",
     "Pos": "RB",
     "Team": "DET",
@@ -2336,7 +2336,7 @@
     "Bye": 14
   },
   {
-    "Rank": 332,
+    "Rank": 333,
     "Player": "Carson Beck",
     "Pos": "QB",
     "Team": "ARI",
@@ -2408,7 +2408,7 @@
     "Bye": 10
   },
   {
-    "Rank": 343,
+    "Rank": 342,
     "Player": "Malik Benson",
     "Pos": "WR",
     "Team": "LV",
@@ -2416,7 +2416,7 @@
     "Bye": 13
   },
   {
-    "Rank": 344,
+    "Rank": 343,
     "Player": "Olamide Zaccheaus",
     "Pos": "WR",
     "Team": "ATL",
@@ -2424,7 +2424,7 @@
     "Bye": 11
   },
   {
-    "Rank": 345,
+    "Rank": 344,
     "Player": "Bam Knight",
     "Pos": "RB",
     "Team": "ARI",
