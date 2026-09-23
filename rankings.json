@@ -2179,9 +2179,9 @@
     "Rank": 310,
     "Player": "Audric Estime",
     "Pos": "RB",
-    "Team": "NO",
+    "Team": "FA",
     "PosRank": "RB91",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 311,
@@ -3819,9 +3819,9 @@
     "Rank": 543,
     "Player": "Brandin Cooks",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "SF",
     "PosRank": "WR189",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 544,
@@ -4611,9 +4611,9 @@
     "Rank": 647,
     "Player": "Jaret Patterson",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "RB169",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 648,
@@ -5139,7 +5139,7 @@
     "Rank": 714,
     "Player": "Hayden Rucci",
     "Pos": "TE",
-    "Team": "JAC",
+    "Team": "LAC",
     "PosRank": "TE153",
     "Bye": 7
   },
@@ -5379,9 +5379,9 @@
     "Rank": 744,
     "Player": "Will Levis",
     "Pos": "QB",
-    "Team": "FA",
+    "Team": "NYJ",
     "PosRank": "QB78",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 745,
@@ -5419,9 +5419,9 @@
     "Rank": 749,
     "Player": "Tanner Conner",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "NE",
     "PosRank": "TE159",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 750,
@@ -5523,9 +5523,9 @@
     "Rank": 762,
     "Player": "Isaiah Hodgins",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "PIT",
     "PosRank": "WR257",
-    "Bye": 0
+    "Bye": 9
   },
   {
     "Rank": 763,
@@ -6003,9 +6003,9 @@
     "Rank": 822,
     "Player": "Bailey Zappe",
     "Pos": "QB",
-    "Team": "NYJ",
+    "Team": "FA",
     "PosRank": "QB92",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 823,
@@ -6563,9 +6563,9 @@
     "Rank": 892,
     "Player": "Shedrick Jackson",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "BAL",
     "PosRank": "WR294",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 893,
@@ -7043,9 +7043,9 @@
     "Rank": 952,
     "Player": "Anderson Castle",
     "Pos": "RB",
-    "Team": "IND",
+    "Team": "FA",
     "PosRank": "RB238",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 953,
