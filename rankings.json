@@ -4067,9 +4067,9 @@
     "Rank": 577,
     "Player": "Scotty Miller",
     "Pos": "WR",
-    "Team": "CHI",
+    "Team": "FA",
     "PosRank": "WR202",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 578,
@@ -6715,9 +6715,9 @@
     "Rank": 911,
     "Player": "AJ Henning",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIA",
     "PosRank": "WR304",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 912,
