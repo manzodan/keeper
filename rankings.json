@@ -2515,9 +2515,9 @@
     "Rank": 357,
     "Player": "J.J. McCarthy",
     "Pos": "QB",
-    "Team": "MIN",
+    "Team": "NYG",
     "PosRank": "QB38",
-    "Bye": 6
+    "Bye": 8
   },
   {
     "Rank": 358,
@@ -4811,9 +4811,9 @@
     "Rank": 672,
     "Player": "Miles Kitselman",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "DET",
     "PosRank": "TE141",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 673,
@@ -5275,9 +5275,9 @@
     "Rank": 731,
     "Player": "Ronnie Bell",
     "Pos": "WR",
-    "Team": "LV",
+    "Team": "FA",
     "PosRank": "WR247",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 732,
