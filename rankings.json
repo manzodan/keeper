@@ -2235,9 +2235,9 @@
     "Rank": 318,
     "Player": "Devin Neal",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "RB96",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 319,
@@ -2315,9 +2315,9 @@
     "Rank": 329,
     "Player": "Jerome Ford",
     "Pos": "RB",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "RB100",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 330,
@@ -2563,9 +2563,9 @@
     "Rank": 365,
     "Player": "Odell Beckham Jr.",
     "Pos": "WR",
-    "Team": "NYG",
+    "Team": "FA",
     "PosRank": "WR130",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 366,
@@ -3115,9 +3115,9 @@
     "Rank": 442,
     "Player": "Austin Ekeler",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "WAS",
     "PosRank": "RB122",
-    "Bye": 0
+    "Bye": 7
   },
   {
     "Rank": 444,
@@ -3411,9 +3411,9 @@
     "Rank": 488,
     "Player": "Mitchell Tinsley",
     "Pos": "WR",
-    "Team": "HOU",
+    "Team": "CIN",
     "PosRank": "WR166",
-    "Bye": 8
+    "Bye": 6
   },
   {
     "Rank": 489,
@@ -4595,9 +4595,9 @@
     "Rank": 645,
     "Player": "Ke'Shawn Williams",
     "Pos": "WR",
-    "Team": "CIN",
+    "Team": "FA",
     "PosRank": "WR216",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 646,
@@ -4611,9 +4611,9 @@
     "Rank": 647,
     "Player": "Jaret Patterson",
     "Pos": "RB",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "RB169",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 648,
@@ -5467,9 +5467,9 @@
     "Rank": 755,
     "Player": "Dare Ogunbowale",
     "Pos": "RB",
-    "Team": "LV",
+    "Team": "HOU",
     "PosRank": "RB191",
-    "Bye": 13
+    "Bye": 8
   },
   {
     "Rank": 756,
@@ -6267,9 +6267,9 @@
     "Rank": 855,
     "Player": "Messiah Swinson",
     "Pos": "TE",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "TE196",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 856,
@@ -6851,9 +6851,9 @@
     "Rank": 928,
     "Player": "Justin Shorter",
     "Pos": "WR",
-    "Team": "LV",
+    "Team": "FA",
     "PosRank": "WR314",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 929,
