@@ -2179,9 +2179,9 @@
     "Rank": 310,
     "Player": "Audric Estime",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "RB91",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 311,
@@ -3409,7 +3409,7 @@
   },
   {
     "Rank": 488,
-    "Player": "Mitchell Tinsley",
+    "Player": "Mitch Tinsley",
     "Pos": "WR",
     "Team": "CIN",
     "PosRank": "WR166",
@@ -4571,9 +4571,9 @@
     "Rank": 642,
     "Player": "Bryce Oliver",
     "Pos": "WR",
-    "Team": "HOU",
+    "Team": "FA",
     "PosRank": "WR213",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 643,
@@ -4595,9 +4595,9 @@
     "Rank": 645,
     "Player": "Ke'Shawn Williams",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "CIN",
     "PosRank": "WR216",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 646,
@@ -5787,9 +5787,9 @@
     "Rank": 795,
     "Player": "Coleman Owen",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "GB",
     "PosRank": "WR266",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 796,
@@ -6563,9 +6563,9 @@
     "Rank": 892,
     "Player": "Shedrick Jackson",
     "Pos": "WR",
-    "Team": "BAL",
+    "Team": "FA",
     "PosRank": "WR294",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 893,
@@ -6931,9 +6931,9 @@
     "Rank": 938,
     "Player": "Julian Hicks",
     "Pos": "WR",
-    "Team": "SEA",
+    "Team": "FA",
     "PosRank": "WR322",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 939,
