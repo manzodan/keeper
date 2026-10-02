@@ -4859,9 +4859,9 @@
     "Rank": 679,
     "Player": "KhaDarel Hodge",
     "Pos": "WR",
-    "Team": "SF",
+    "Team": "FA",
     "PosRank": "WR226",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 680,
@@ -6747,9 +6747,9 @@
     "Rank": 915,
     "Player": "Ulysses Bentley IV",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "NO",
     "PosRank": "RB228",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 916,
