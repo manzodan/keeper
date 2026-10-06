@@ -2635,9 +2635,9 @@
     "Rank": 376,
     "Player": "Joe Mixon",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "SEA",
     "PosRank": "RB107",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 377,
@@ -3883,9 +3883,9 @@
     "Rank": 553,
     "Player": "Robert Henry Jr.",
     "Pos": "RB",
-    "Team": "WAS",
+    "Team": "SEA",
     "PosRank": "RB142",
-    "Bye": 7
+    "Bye": 11
   },
   {
     "Rank": 554,
@@ -4059,9 +4059,9 @@
     "Rank": 576,
     "Player": "Jeshaun Jones",
     "Pos": "WR",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "WR201",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 577,
