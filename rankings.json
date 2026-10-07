@@ -2235,9 +2235,9 @@
     "Rank": 318,
     "Player": "Devin Neal",
     "Pos": "RB",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "RB96",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 319,
@@ -2635,9 +2635,9 @@
     "Rank": 376,
     "Player": "Joe Mixon",
     "Pos": "RB",
-    "Team": "SEA",
+    "Team": "FA",
     "PosRank": "RB107",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 377,
@@ -3307,9 +3307,9 @@
     "Rank": 474,
     "Player": "Jam Miller",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "ATL",
     "PosRank": "RB131",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 476,
@@ -4067,9 +4067,9 @@
     "Rank": 577,
     "Player": "Scotty Miller",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "CHI",
     "PosRank": "WR202",
-    "Bye": 0
+    "Bye": 10
   },
   {
     "Rank": 578,
@@ -4243,9 +4243,9 @@
     "Rank": 599,
     "Player": "Cash Jones",
     "Pos": "RB",
-    "Team": "ATL",
+    "Team": "FA",
     "PosRank": "RB158",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 600,
@@ -4715,9 +4715,9 @@
     "Rank": 660,
     "Player": "Eric Gray",
     "Pos": "RB",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "RB172",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 661,
@@ -4763,9 +4763,9 @@
     "Rank": 666,
     "Player": "Carlos Washington Jr.",
     "Pos": "RB",
-    "Team": "MIA",
+    "Team": "FA",
     "PosRank": "RB173",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 667,
@@ -5995,9 +5995,9 @@
     "Rank": 821,
     "Player": "Deuce Vaughn",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "HOU",
     "PosRank": "RB214",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 822,
@@ -6099,9 +6099,9 @@
     "Rank": 834,
     "Player": "Kenny Yeboah",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "TE183",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 835,
@@ -6531,9 +6531,9 @@
     "Rank": 888,
     "Player": "Quez Watkins",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "IND",
     "PosRank": "WR290",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 889,
@@ -6571,9 +6571,9 @@
     "Rank": 893,
     "Player": "James Proche II",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "CLE",
     "PosRank": "WR295",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 894,
