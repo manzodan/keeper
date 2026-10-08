@@ -2563,9 +2563,9 @@
     "Rank": 365,
     "Player": "Odell Beckham Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "WR130",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 366,
@@ -3171,9 +3171,9 @@
     "Rank": 454,
     "Player": "Xavier Smith",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "SF",
     "PosRank": "WR153",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 455,
@@ -4059,9 +4059,9 @@
     "Rank": 576,
     "Player": "Jeshaun Jones",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "WR201",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 577,
@@ -4611,9 +4611,9 @@
     "Rank": 647,
     "Player": "Jaret Patterson",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "CLE",
     "PosRank": "RB169",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 648,
@@ -4763,9 +4763,9 @@
     "Rank": 666,
     "Player": "Carlos Washington Jr.",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "MIA",
     "PosRank": "RB173",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 667,
@@ -6315,9 +6315,9 @@
     "Rank": 861,
     "Player": "Lucas Scott",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "BAL",
     "PosRank": "RB221",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 862,
@@ -6547,9 +6547,9 @@
     "Rank": 890,
     "Player": "Dontae Fleming",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "NYG",
     "PosRank": "WR292",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 891,
