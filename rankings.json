@@ -1563,9 +1563,9 @@
     "Rank": 209,
     "Player": "Kaytron Allen",
     "Pos": "RB",
-    "Team": "WAS",
+    "Team": "FA",
     "PosRank": "RB63",
-    "Bye": 7
+    "Bye": 0
   },
   {
     "Rank": 210,
@@ -2043,9 +2043,9 @@
     "Rank": 291,
     "Player": "Emari Demercado",
     "Pos": "RB",
-    "Team": "DAL",
+    "Team": "FA",
     "PosRank": "RB87",
-    "Bye": 14
+    "Bye": 0
   },
   {
     "Rank": 292,
@@ -4571,9 +4571,9 @@
     "Rank": 642,
     "Player": "Bryce Oliver",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "HOU",
     "PosRank": "WR213",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 643,
