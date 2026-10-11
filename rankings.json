@@ -4115,9 +4115,9 @@
     "Rank": 583,
     "Player": "Kevin Austin Jr.",
     "Pos": "WR",
-    "Team": "NO",
+    "Team": "FA",
     "PosRank": "WR204",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 584,
@@ -4571,9 +4571,9 @@
     "Rank": 642,
     "Player": "Bryce Oliver",
     "Pos": "WR",
-    "Team": "HOU",
+    "Team": "FA",
     "PosRank": "WR213",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 643,
@@ -6339,9 +6339,9 @@
     "Rank": 864,
     "Player": "Brady Cook",
     "Pos": "QB",
-    "Team": "MIA",
+    "Team": "FA",
     "PosRank": "QB95",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 865,
@@ -7171,9 +7171,9 @@
     "Rank": 968,
     "Player": "Jamaal Pritchett",
     "Pos": "WR",
-    "Team": "NYJ",
+    "Team": "FA",
     "PosRank": "WR339",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 969,
