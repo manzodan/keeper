@@ -3915,9 +3915,9 @@
     "Rank": 558,
     "Player": "Jared Wayne",
     "Pos": "WR",
-    "Team": "HOU",
+    "Team": "FA",
     "PosRank": "WR193",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 559,
@@ -4571,9 +4571,9 @@
     "Rank": 642,
     "Player": "Bryce Oliver",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "HOU",
     "PosRank": "WR213",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 643,
@@ -4843,9 +4843,9 @@
     "Rank": 677,
     "Player": "Justin Watson",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "KC",
     "PosRank": "WR224",
-    "Bye": 0
+    "Bye": 5
   },
   {
     "Rank": 678,
@@ -4971,9 +4971,9 @@
     "Rank": 693,
     "Player": "Jamari Thrash",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "LV",
     "PosRank": "WR235",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 694,
