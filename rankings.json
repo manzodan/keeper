@@ -2283,9 +2283,9 @@
     "Rank": 324,
     "Player": "Jarquez Hunter",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "NO",
     "PosRank": "RB99",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 325,
@@ -2315,9 +2315,9 @@
     "Rank": 329,
     "Player": "Jerome Ford",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "RB100",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 330,
@@ -4115,9 +4115,9 @@
     "Rank": 583,
     "Player": "Kevin Austin Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "NO",
     "PosRank": "WR204",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 584,
@@ -6451,9 +6451,9 @@
     "Rank": 878,
     "Player": "Chris Moore",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "BAL",
     "PosRank": "WR285",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 879,
@@ -6563,9 +6563,9 @@
     "Rank": 892,
     "Player": "Shedrick Jackson",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "WR294",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 893,
