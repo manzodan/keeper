@@ -1595,9 +1595,9 @@
     "Rank": 215,
     "Player": "Najee Harris",
     "Pos": "RB",
-    "Team": "NYG",
+    "Team": "FA",
     "PosRank": "RB65",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 217,
@@ -2171,9 +2171,9 @@
     "Rank": 309,
     "Player": "Jaydon Blue",
     "Pos": "RB",
-    "Team": "PHI",
+    "Team": "FA",
     "PosRank": "RB90",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 310,
@@ -3771,9 +3771,9 @@
     "Rank": 536,
     "Player": "Marquez Valdes-Scantling",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "PIT",
     "PosRank": "WR187",
-    "Bye": 0
+    "Bye": 9
   },
   {
     "Rank": 538,
@@ -4115,9 +4115,9 @@
     "Rank": 583,
     "Player": "Kevin Austin Jr.",
     "Pos": "WR",
-    "Team": "NO",
+    "Team": "FA",
     "PosRank": "WR204",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 584,
@@ -4211,9 +4211,9 @@
     "Rank": 595,
     "Player": "Carson Steele",
     "Pos": "RB",
-    "Team": "PHI",
+    "Team": "FA",
     "PosRank": "RB156",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 596,
@@ -4579,9 +4579,9 @@
     "Rank": 643,
     "Player": "Mecole Hardman Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "IND",
     "PosRank": "WR214",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 644,
@@ -4659,9 +4659,9 @@
     "Rank": 653,
     "Player": "Devin Culp",
     "Pos": "TE",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "TE133",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 654,
@@ -5291,9 +5291,9 @@
     "Rank": 733,
     "Player": "Elijah Mitchell",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "PHI",
     "PosRank": "RB187",
-    "Bye": 0
+    "Bye": 10
   },
   {
     "Rank": 734,
@@ -5595,9 +5595,9 @@
     "Rank": 771,
     "Player": "Jason Brownlee",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "NYG",
     "PosRank": "WR260",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 772,
@@ -6203,9 +6203,9 @@
     "Rank": 847,
     "Player": "Ian Wheeler",
     "Pos": "RB",
-    "Team": "PHI",
+    "Team": "FA",
     "PosRank": "RB218",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 848,
@@ -6395,9 +6395,9 @@
     "Rank": 871,
     "Player": "Quentin Moore",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "WAS",
     "PosRank": "TE201",
-    "Bye": 0
+    "Bye": 7
   },
   {
     "Rank": 872,
