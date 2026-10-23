@@ -2171,9 +2171,9 @@
     "Rank": 309,
     "Player": "Jaydon Blue",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "PHI",
     "PosRank": "RB90",
-    "Bye": 0
+    "Bye": 10
   },
   {
     "Rank": 310,
@@ -5051,9 +5051,9 @@
     "Rank": 703,
     "Player": "E.J. Jenkins",
     "Pos": "TE",
-    "Team": "PHI",
+    "Team": "FA",
     "PosRank": "TE149",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 704,
