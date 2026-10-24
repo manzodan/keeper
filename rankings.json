@@ -3851,9 +3851,9 @@
     "Rank": 547,
     "Player": "DeeJay Dallas",
     "Pos": "RB",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "RB141",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 548,
@@ -4827,9 +4827,9 @@
     "Rank": 674,
     "Player": "Nate Carter",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "KC",
     "PosRank": "RB175",
-    "Bye": 0
+    "Bye": 5
   },
   {
     "Rank": 676,
