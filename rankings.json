@@ -265,18 +265,18 @@
   },
   {
     "Rank": 34,
-    "Player": "Lamar Jackson",
-    "Pos": "QB",
-    "Team": "BAL",
-    "PosRank": "QB2",
-    "Bye": 13
-  },
-  {
-    "Rank": 35,
     "Player": "Breece Hall",
     "Pos": "RB",
     "Team": "NYJ",
     "PosRank": "RB15",
+    "Bye": 13
+  },
+  {
+    "Rank": 35,
+    "Player": "Lamar Jackson",
+    "Pos": "QB",
+    "Team": "BAL",
+    "PosRank": "QB2",
     "Bye": 13
   },
   {
@@ -329,19 +329,19 @@
   },
   {
     "Rank": 42,
-    "Player": "Emeka Egbuka",
-    "Pos": "WR",
-    "Team": "TB",
-    "PosRank": "WR21",
-    "Bye": 10
-  },
-  {
-    "Rank": 43,
     "Player": "Drake Maye",
     "Pos": "QB",
     "Team": "NE",
     "PosRank": "QB3",
     "Bye": 11
+  },
+  {
+    "Rank": 43,
+    "Player": "Emeka Egbuka",
+    "Pos": "WR",
+    "Team": "TB",
+    "PosRank": "WR21",
+    "Bye": 10
   },
   {
     "Rank": 44,
@@ -761,19 +761,19 @@
   },
   {
     "Rank": 96,
-    "Player": "Bo Nix",
-    "Pos": "QB",
-    "Team": "DEN",
-    "PosRank": "QB12",
-    "Bye": 10
-  },
-  {
-    "Rank": 97,
     "Player": "Jordan Mason",
     "Pos": "RB",
     "Team": "MIN",
     "PosRank": "RB35",
     "Bye": 6
+  },
+  {
+    "Rank": 97,
+    "Player": "Bo Nix",
+    "Pos": "QB",
+    "Team": "DEN",
+    "PosRank": "QB12",
+    "Bye": 10
   },
   {
     "Rank": 98,
@@ -841,19 +841,19 @@
   },
   {
     "Rank": 106,
-    "Player": "Wan'Dale Robinson",
-    "Pos": "WR",
-    "Team": "TEN",
-    "PosRank": "WR44",
-    "Bye": 9
-  },
-  {
-    "Rank": 107,
     "Player": "Kenny Gainwell",
     "Pos": "RB",
     "Team": "TB",
     "PosRank": "RB38",
     "Bye": 10
+  },
+  {
+    "Rank": 107,
+    "Player": "Wan'Dale Robinson",
+    "Pos": "WR",
+    "Team": "TEN",
+    "PosRank": "WR44",
+    "Bye": 9
   },
   {
     "Rank": 108,
@@ -1081,19 +1081,19 @@
   },
   {
     "Rank": 136,
-    "Player": "Tyjae Spears",
-    "Pos": "RB",
-    "Team": "TEN",
-    "PosRank": "RB45",
-    "Bye": 9
-  },
-  {
-    "Rank": 137,
     "Player": "Deebo Samuel Sr.",
     "Pos": "WR",
     "Team": "SF",
     "PosRank": "WR55",
     "Bye": 8
+  },
+  {
+    "Rank": 137,
+    "Player": "Tyjae Spears",
+    "Pos": "RB",
+    "Team": "TEN",
+    "PosRank": "RB45",
+    "Bye": 9
   },
   {
     "Rank": 138,
@@ -1337,19 +1337,19 @@
   },
   {
     "Rank": 168,
-    "Player": "Tyrone Tracy Jr.",
-    "Pos": "RB",
-    "Team": "NYG",
-    "PosRank": "RB58",
-    "Bye": 8
-  },
-  {
-    "Rank": 169,
     "Player": "T.J. Hockenson",
     "Pos": "TE",
     "Team": "MIN",
     "PosRank": "TE22",
     "Bye": 6
+  },
+  {
+    "Rank": 169,
+    "Player": "Tyrone Tracy Jr.",
+    "Pos": "RB",
+    "Team": "NYG",
+    "PosRank": "RB58",
+    "Bye": 8
   },
   {
     "Rank": 170,
@@ -1472,7 +1472,7 @@
     "Bye": 14
   },
   {
-    "Rank": 191,
+    "Rank": 190,
     "Player": "Kaelon Black",
     "Pos": "RB",
     "Team": "SF",
@@ -1713,19 +1713,19 @@
   },
   {
     "Rank": 239,
-    "Player": "Isiah Pacheco",
-    "Pos": "RB",
-    "Team": "DET",
-    "PosRank": "RB71",
-    "Bye": 6
-  },
-  {
-    "Rank": 240,
     "Player": "Germie Bernard",
     "Pos": "WR",
     "Team": "PIT",
     "PosRank": "WR85",
     "Bye": 9
+  },
+  {
+    "Rank": 240,
+    "Player": "Isiah Pacheco",
+    "Pos": "RB",
+    "Team": "DET",
+    "PosRank": "RB71",
+    "Bye": 6
   },
   {
     "Rank": 243,
@@ -1752,28 +1752,28 @@
     "Bye": 11
   },
   {
-    "Rank": 247,
-    "Player": "Demond Claiborne",
+    "Rank": 246,
+    "Player": "James Conner",
     "Pos": "RB",
-    "Team": "MIN",
+    "Team": "ARI",
     "PosRank": "RB74",
-    "Bye": 6
+    "Bye": 14
   },
   {
     "Rank": 248,
+    "Player": "Demond Claiborne",
+    "Pos": "RB",
+    "Team": "MIN",
+    "PosRank": "RB75",
+    "Bye": 6
+  },
+  {
+    "Rank": 249,
     "Player": "Caleb Douglas",
     "Pos": "WR",
     "Team": "MIA",
     "PosRank": "WR87",
     "Bye": 6
-  },
-  {
-    "Rank": 249,
-    "Player": "James Conner",
-    "Pos": "RB",
-    "Team": "ARI",
-    "PosRank": "RB75",
-    "Bye": 14
   },
   {
     "Rank": 251,
@@ -1792,7 +1792,7 @@
     "Bye": 10
   },
   {
-    "Rank": 254,
+    "Rank": 253,
     "Player": "David Njoku",
     "Pos": "TE",
     "Team": "LAC",
@@ -1857,19 +1857,19 @@
   },
   {
     "Rank": 264,
-    "Player": "Jordan James",
-    "Pos": "RB",
-    "Team": "SF",
-    "PosRank": "RB78",
-    "Bye": 8
-  },
-  {
-    "Rank": 265,
     "Player": "Tyquan Thornton",
     "Pos": "WR",
     "Team": "KC",
     "PosRank": "WR92",
     "Bye": 5
+  },
+  {
+    "Rank": 265,
+    "Player": "Jordan James",
+    "Pos": "RB",
+    "Team": "SF",
+    "PosRank": "RB78",
+    "Bye": 8
   },
   {
     "Rank": 266,
@@ -1921,6 +1921,14 @@
   },
   {
     "Rank": 274,
+    "Player": "Xavier Legette",
+    "Pos": "WR",
+    "Team": "CAR",
+    "PosRank": "WR94",
+    "Bye": 5
+  },
+  {
+    "Rank": 275,
     "Player": "Deshaun Watson",
     "Pos": "QB",
     "Team": "CLE",
@@ -1928,20 +1936,12 @@
     "Bye": 11
   },
   {
-    "Rank": 275,
+    "Rank": 276,
     "Player": "Shedeur Sanders",
     "Pos": "QB",
     "Team": "CLE",
     "PosRank": "QB35",
     "Bye": 11
-  },
-  {
-    "Rank": 276,
-    "Player": "Xavier Legette",
-    "Pos": "WR",
-    "Team": "CAR",
-    "PosRank": "WR94",
-    "Bye": 5
   },
   {
     "Rank": 277,
@@ -2043,9 +2043,9 @@
     "Rank": 291,
     "Player": "Emari Demercado",
     "Pos": "RB",
-    "Team": "DAL",
+    "Team": "FA",
     "PosRank": "RB87",
-    "Bye": 14
+    "Bye": 0
   },
   {
     "Rank": 292,
@@ -2104,7 +2104,7 @@
     "Bye": 8
   },
   {
-    "Rank": 301,
+    "Rank": 300,
     "Player": "Skyler Bell",
     "Pos": "WR",
     "Team": "BUF",
@@ -2161,19 +2161,19 @@
   },
   {
     "Rank": 308,
-    "Player": "Michael Mayer",
-    "Pos": "TE",
-    "Team": "LV",
-    "PosRank": "TE38",
-    "Bye": 13
-  },
-  {
-    "Rank": 309,
     "Player": "Jaydon Blue",
     "Pos": "RB",
     "Team": "PHI",
     "PosRank": "RB90",
     "Bye": 10
+  },
+  {
+    "Rank": 309,
+    "Player": "Michael Mayer",
+    "Pos": "TE",
+    "Team": "LV",
+    "PosRank": "TE38",
+    "Bye": 13
   },
   {
     "Rank": 310,
@@ -2224,7 +2224,7 @@
     "Bye": 8
   },
   {
-    "Rank": 317,
+    "Rank": 316,
     "Player": "Jacob Saylors",
     "Pos": "RB",
     "Team": "DET",
@@ -2408,7 +2408,7 @@
     "Bye": 10
   },
   {
-    "Rank": 343,
+    "Rank": 342,
     "Player": "Olamide Zaccheaus",
     "Pos": "WR",
     "Team": "ATL",
@@ -2416,7 +2416,7 @@
     "Bye": 11
   },
   {
-    "Rank": 344,
+    "Rank": 343,
     "Player": "Bam Knight",
     "Pos": "RB",
     "Team": "ARI",
@@ -3923,9 +3923,9 @@
     "Rank": 559,
     "Player": "Ben Sims",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "SEA",
     "PosRank": "TE106",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 560,
@@ -4355,9 +4355,9 @@
     "Rank": 614,
     "Player": "Montorie Foster Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "SEA",
     "PosRank": "WR206",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 615,
@@ -4611,9 +4611,9 @@
     "Rank": 647,
     "Player": "Jaret Patterson",
     "Pos": "RB",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "RB169",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 648,
@@ -4891,9 +4891,9 @@
     "Rank": 683,
     "Player": "Zay Jones",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "WR229",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 684,
@@ -4971,9 +4971,9 @@
     "Rank": 693,
     "Player": "Jamari Thrash",
     "Pos": "WR",
-    "Team": "LV",
+    "Team": "FA",
     "PosRank": "WR235",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 694,
@@ -5059,9 +5059,9 @@
     "Rank": 704,
     "Player": "Gregory Desrosiers",
     "Pos": "RB",
-    "Team": "LAC",
+    "Team": "NYG",
     "PosRank": "RB180",
-    "Bye": 7
+    "Bye": 8
   },
   {
     "Rank": 705,
@@ -5083,9 +5083,9 @@
     "Rank": 707,
     "Player": "Josiah Deguara",
     "Pos": "TE",
-    "Team": "SEA",
+    "Team": "FA",
     "PosRank": "TE151",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 708,
@@ -5571,9 +5571,9 @@
     "Rank": 768,
     "Player": "Jonathan Ward",
     "Pos": "RB",
-    "Team": "BAL",
+    "Team": "FA",
     "PosRank": "RB198",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 769,
@@ -5595,9 +5595,9 @@
     "Rank": 771,
     "Player": "Jason Brownlee",
     "Pos": "WR",
-    "Team": "NYG",
+    "Team": "FA",
     "PosRank": "WR260",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 772,
@@ -5843,9 +5843,9 @@
     "Rank": 802,
     "Player": "Tejhaun Palmer",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "LAC",
     "PosRank": "WR268",
-    "Bye": 0
+    "Bye": 7
   },
   {
     "Rank": 803,
@@ -6283,9 +6283,9 @@
     "Rank": 857,
     "Player": "Jameson Geers",
     "Pos": "TE",
-    "Team": "ARI",
+    "Team": "FA",
     "PosRank": "TE198",
-    "Bye": 14
+    "Bye": 0
   },
   {
     "Rank": 858,
@@ -6411,9 +6411,9 @@
     "Rank": 873,
     "Player": "DJ Rogers",
     "Pos": "TE",
-    "Team": "DAL",
+    "Team": "FA",
     "PosRank": "TE202",
-    "Bye": 14
+    "Bye": 0
   },
   {
     "Rank": 874,
