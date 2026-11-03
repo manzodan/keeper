@@ -2179,9 +2179,9 @@
     "Rank": 310,
     "Player": "Audric Estime",
     "Pos": "RB",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "RB91",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 311,
@@ -3811,9 +3811,9 @@
     "Rank": 542,
     "Player": "Terrell Jennings",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "NE",
     "PosRank": "RB139",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 543,
@@ -3883,9 +3883,9 @@
     "Rank": 553,
     "Player": "Robert Henry Jr.",
     "Pos": "RB",
-    "Team": "SEA",
+    "Team": "FA",
     "PosRank": "RB142",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 554,
@@ -4715,9 +4715,9 @@
     "Rank": 660,
     "Player": "Eric Gray",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "NYG",
     "PosRank": "RB172",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 661,
@@ -4859,9 +4859,9 @@
     "Rank": 679,
     "Player": "KhaDarel Hodge",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "SF",
     "PosRank": "WR226",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 680,
@@ -5995,9 +5995,9 @@
     "Rank": 821,
     "Player": "Deuce Vaughn",
     "Pos": "RB",
-    "Team": "HOU",
+    "Team": "FA",
     "PosRank": "RB214",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 822,
@@ -6315,9 +6315,9 @@
     "Rank": 861,
     "Player": "Lucas Scott",
     "Pos": "RB",
-    "Team": "BAL",
+    "Team": "FA",
     "PosRank": "RB221",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 862,
