@@ -2179,9 +2179,9 @@
     "Rank": 310,
     "Player": "Audric Estime",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "NO",
     "PosRank": "RB91",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 311,
@@ -3883,9 +3883,9 @@
     "Rank": 553,
     "Player": "Robert Henry Jr.",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "WAS",
     "PosRank": "RB142",
-    "Bye": 0
+    "Bye": 7
   },
   {
     "Rank": 554,
@@ -4611,9 +4611,9 @@
     "Rank": 647,
     "Player": "Jaret Patterson",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "DEN",
     "PosRank": "RB169",
-    "Bye": 0
+    "Bye": 10
   },
   {
     "Rank": 648,
@@ -5483,9 +5483,9 @@
     "Rank": 757,
     "Player": "Bub Means",
     "Pos": "WR",
-    "Team": "CLE",
+    "Team": "FA",
     "PosRank": "WR255",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 758,
@@ -5739,9 +5739,9 @@
     "Rank": 789,
     "Player": "Alex Bachman",
     "Pos": "WR",
-    "Team": "LAR",
+    "Team": "FA",
     "PosRank": "WR263",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 790,
@@ -6059,9 +6059,9 @@
     "Rank": 829,
     "Player": "Bryson Nesbit",
     "Pos": "TE",
-    "Team": "MIN",
+    "Team": "FA",
     "PosRank": "TE179",
-    "Bye": 6
+    "Bye": 0
   },
   {
     "Rank": 830,
@@ -7267,9 +7267,9 @@
     "Rank": 980,
     "Player": "Cameron Dorner",
     "Pos": "WR",
-    "Team": "NE",
+    "Team": "FA",
     "PosRank": "WR351",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 981,
@@ -7291,9 +7291,9 @@
     "Rank": 983,
     "Player": "Xavier Guillory",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "CLE",
     "PosRank": "WR354",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 984,
