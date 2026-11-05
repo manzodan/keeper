@@ -4291,9 +4291,9 @@
     "Rank": 606,
     "Player": "Hassan Haskins",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "CLE",
     "PosRank": "RB161",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 607,
@@ -4907,9 +4907,9 @@
     "Rank": 685,
     "Player": "Jermar Jefferson",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "RB177",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 686,
@@ -5355,9 +5355,9 @@
     "Rank": 741,
     "Player": "Jashaun Corbin",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "DAL",
     "PosRank": "RB189",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 742,
@@ -5739,9 +5739,9 @@
     "Rank": 789,
     "Player": "Alex Bachman",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "LAR",
     "PosRank": "WR263",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 790,
@@ -6571,9 +6571,9 @@
     "Rank": 893,
     "Player": "James Proche II",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "WR295",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 894,
@@ -6763,9 +6763,9 @@
     "Rank": 917,
     "Player": "Cody White",
     "Pos": "WR",
-    "Team": "LV",
+    "Team": "FA",
     "PosRank": "WR306",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 918,
@@ -7011,9 +7011,9 @@
     "Rank": 948,
     "Player": "Zaire Mitchell-Paden",
     "Pos": "TE",
-    "Team": "HOU",
+    "Team": "FA",
     "PosRank": "TE208",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 949,
@@ -7235,9 +7235,9 @@
     "Rank": 976,
     "Player": "Daniel Sobkowicz",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "HOU",
     "PosRank": "WR347",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 977,
