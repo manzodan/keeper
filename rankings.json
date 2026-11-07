@@ -1427,9 +1427,9 @@
     "Rank": 180,
     "Player": "Jacoby Brissett",
     "Pos": "QB",
-    "Team": "ARI",
+    "Team": "BAL",
     "PosRank": "QB27",
-    "Bye": 14
+    "Bye": 13
   },
   {
     "Rank": 181,
@@ -3259,9 +3259,9 @@
     "Rank": 465,
     "Player": "Dameon Pierce",
     "Pos": "RB",
-    "Team": "PHI",
+    "Team": "FA",
     "PosRank": "RB129",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 467,
@@ -4883,9 +4883,9 @@
     "Rank": 682,
     "Player": "Velus Jones Jr.",
     "Pos": "WR",
-    "Team": "SEA",
+    "Team": "FA",
     "PosRank": "WR228",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 683,
@@ -5507,9 +5507,9 @@
     "Rank": 760,
     "Player": "Carter Runyon",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "LV",
     "PosRank": "TE161",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 761,
