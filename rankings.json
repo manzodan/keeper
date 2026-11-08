@@ -1899,9 +1899,9 @@
     "Rank": 270,
     "Player": "Kendre Miller",
     "Pos": "RB",
-    "Team": "NO",
+    "Team": "FA",
     "PosRank": "RB81",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 271,
@@ -3899,9 +3899,9 @@
     "Rank": 556,
     "Player": "Carsen Ryan",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "CLE",
     "PosRank": "TE105",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 557,
@@ -4883,9 +4883,9 @@
     "Rank": 682,
     "Player": "Velus Jones Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "SEA",
     "PosRank": "WR228",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 683,
@@ -6347,9 +6347,9 @@
     "Rank": 865,
     "Player": "Treyton Welch",
     "Pos": "TE",
-    "Team": "NO",
+    "Team": "FA",
     "PosRank": "TE200",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 866,
