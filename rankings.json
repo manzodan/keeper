@@ -2563,9 +2563,9 @@
     "Rank": 365,
     "Player": "Odell Beckham Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "WR130",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 366,
@@ -3931,9 +3931,9 @@
     "Rank": 560,
     "Player": "Nikko Remigio",
     "Pos": "WR",
-    "Team": "KC",
+    "Team": "FA",
     "PosRank": "WR194",
-    "Bye": 5
+    "Bye": 0
   },
   {
     "Rank": 561,
@@ -4051,9 +4051,9 @@
     "Rank": 575,
     "Player": "David Moore",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "CAR",
     "PosRank": "WR200",
-    "Bye": 0
+    "Bye": 5
   },
   {
     "Rank": 576,
@@ -4747,9 +4747,9 @@
     "Rank": 664,
     "Player": "Nick Vannett",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "BAL",
     "PosRank": "TE139",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 665,
@@ -4899,9 +4899,9 @@
     "Rank": 684,
     "Player": "Tanner Arkin",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "NE",
     "PosRank": "TE143",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 685,
@@ -5747,9 +5747,9 @@
     "Rank": 790,
     "Player": "Jackson Meeks",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "DET",
     "PosRank": "WR264",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 791,
