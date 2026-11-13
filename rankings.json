@@ -2059,9 +2059,9 @@
     "Rank": 293,
     "Player": "Hollywood Brown",
     "Pos": "WR",
-    "Team": "PHI",
+    "Team": "FA",
     "PosRank": "WR102",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 295,
@@ -3931,9 +3931,9 @@
     "Rank": 560,
     "Player": "Nikko Remigio",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "HOU",
     "PosRank": "WR194",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 561,
