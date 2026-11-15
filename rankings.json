@@ -2787,9 +2787,9 @@
     "Rank": 396,
     "Player": "Michael Carter",
     "Pos": "RB",
-    "Team": "TEN",
+    "Team": "FA",
     "PosRank": "RB111",
-    "Bye": 9
+    "Bye": 0
   },
   {
     "Rank": 397,
@@ -5467,9 +5467,9 @@
     "Rank": 755,
     "Player": "Dare Ogunbowale",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "HOU",
     "PosRank": "RB191",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 756,
@@ -5787,9 +5787,9 @@
     "Rank": 795,
     "Player": "Coleman Owen",
     "Pos": "WR",
-    "Team": "GB",
+    "Team": "FA",
     "PosRank": "WR266",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 796,
@@ -7235,9 +7235,9 @@
     "Rank": 976,
     "Player": "Daniel Sobkowicz",
     "Pos": "WR",
-    "Team": "HOU",
+    "Team": "FA",
     "PosRank": "WR347",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 977,
