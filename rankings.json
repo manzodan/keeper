@@ -5331,9 +5331,9 @@
     "Rank": 738,
     "Player": "Charlie Jones",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "NYG",
     "PosRank": "WR250",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 739,
@@ -5483,9 +5483,9 @@
     "Rank": 757,
     "Player": "Bub Means",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "ARI",
     "PosRank": "WR255",
-    "Bye": 0
+    "Bye": 14
   },
   {
     "Rank": 758,
@@ -5523,9 +5523,9 @@
     "Rank": 762,
     "Player": "Isaiah Hodgins",
     "Pos": "WR",
-    "Team": "PIT",
+    "Team": "FA",
     "PosRank": "WR257",
-    "Bye": 9
+    "Bye": 0
   },
   {
     "Rank": 763,
@@ -6659,9 +6659,9 @@
     "Rank": 904,
     "Player": "Dee Eskridge",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "MIN",
     "PosRank": "WR300",
-    "Bye": 0
+    "Bye": 6
   },
   {
     "Rank": 905,
