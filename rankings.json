@@ -3347,9 +3347,9 @@
     "Rank": 480,
     "Player": "Pierre Strong Jr.",
     "Pos": "RB",
-    "Team": "GB",
+    "Team": "FA",
     "PosRank": "RB132",
-    "Bye": 11
+    "Bye": 0
   },
   {
     "Rank": 481,
@@ -3899,9 +3899,9 @@
     "Rank": 556,
     "Player": "Carsen Ryan",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "CLE",
     "PosRank": "TE105",
-    "Bye": 0
+    "Bye": 11
   },
   {
     "Rank": 557,
@@ -5083,9 +5083,9 @@
     "Rank": 707,
     "Player": "Josiah Deguara",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "LAC",
     "PosRank": "TE151",
-    "Bye": 0
+    "Bye": 7
   },
   {
     "Rank": 708,
@@ -6435,9 +6435,9 @@
     "Rank": 876,
     "Player": "Brandon Smith",
     "Pos": "WR",
-    "Team": "PIT",
+    "Team": "FA",
     "PosRank": "WR284",
-    "Bye": 9
+    "Bye": 0
   },
   {
     "Rank": 877,
