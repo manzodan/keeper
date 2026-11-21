@@ -1147,9 +1147,9 @@
     "Rank": 144,
     "Player": "Daniel Jones",
     "Pos": "QB",
-    "Team": "IND",
+    "Team": "FA",
     "PosRank": "QB24",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 145,
@@ -5057,7 +5057,7 @@
   },
   {
     "Rank": 704,
-    "Player": "Gregory Desrosiers",
+    "Player": "Gregory Desrosiers Jr.",
     "Pos": "RB",
     "Team": "NYG",
     "PosRank": "RB180",
