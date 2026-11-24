@@ -2435,9 +2435,9 @@
     "Rank": 346,
     "Player": "Brandon Aiyuk",
     "Pos": "WR",
-    "Team": "SF",
+    "Team": "FA",
     "PosRank": "WR120",
-    "Bye": 8
+    "Bye": 0
   },
   {
     "Rank": 347,
@@ -4707,9 +4707,9 @@
     "Rank": 659,
     "Player": "Eric Gray",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "IND",
     "PosRank": "RB171",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 660,
@@ -6771,9 +6771,9 @@
     "Rank": 918,
     "Player": "Chris Collier",
     "Pos": "RB",
-    "Team": "LV",
+    "Team": "FA",
     "PosRank": "RB229",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 919,
@@ -6811,9 +6811,9 @@
     "Rank": 923,
     "Player": "EJ Smith",
     "Pos": "RB",
-    "Team": "KC",
+    "Team": "FA",
     "PosRank": "RB230",
-    "Bye": 5
+    "Bye": 0
   },
   {
     "Rank": 924,
