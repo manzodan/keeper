@@ -3899,17 +3899,17 @@
     "Rank": 556,
     "Player": "LaJohntay Wester",
     "Pos": "WR",
-    "Team": "BAL",
+    "Team": "FA",
     "PosRank": "WR193",
-    "Bye": 13
+    "Bye": 0
   },
   {
     "Rank": 557,
     "Player": "Theo Wease Jr.",
     "Pos": "WR",
-    "Team": "LAC",
+    "Team": "FA",
     "PosRank": "WR194",
-    "Bye": 7
+    "Bye": 0
   },
   {
     "Rank": 558,
@@ -4107,9 +4107,9 @@
     "Rank": 582,
     "Player": "Kevin Austin Jr.",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "NO",
     "PosRank": "WR204",
-    "Bye": 0
+    "Bye": 8
   },
   {
     "Rank": 583,
@@ -4859,9 +4859,9 @@
     "Rank": 679,
     "Player": "Craig Reynolds",
     "Pos": "RB",
-    "Team": "WAS",
+    "Team": "FA",
     "PosRank": "RB175",
-    "Bye": 7
+    "Bye": 0
   },
   {
     "Rank": 680,
@@ -5075,9 +5075,9 @@
     "Rank": 706,
     "Player": "Josiah Deguara",
     "Pos": "TE",
-    "Team": "LAC",
+    "Team": "FA",
     "PosRank": "TE151",
-    "Bye": 7
+    "Bye": 0
   },
   {
     "Rank": 707,
@@ -6091,9 +6091,9 @@
     "Rank": 833,
     "Player": "Sean McKeon",
     "Pos": "TE",
-    "Team": "FA",
+    "Team": "IND",
     "PosRank": "TE182",
-    "Bye": 0
+    "Bye": 13
   },
   {
     "Rank": 834,
@@ -6203,9 +6203,9 @@
     "Rank": 847,
     "Player": "Ian Wheeler",
     "Pos": "RB",
-    "Team": "FA",
+    "Team": "LAC",
     "PosRank": "RB218",
-    "Bye": 0
+    "Bye": 7
   },
   {
     "Rank": 848,
@@ -6435,9 +6435,9 @@
     "Rank": 876,
     "Player": "Brandon Smith",
     "Pos": "WR",
-    "Team": "FA",
+    "Team": "PIT",
     "PosRank": "WR284",
-    "Bye": 0
+    "Bye": 9
   },
   {
     "Rank": 877,
@@ -6595,9 +6595,9 @@
     "Rank": 896,
     "Player": "Cooper Rush",
     "Pos": "QB",
-    "Team": "TB",
+    "Team": "FA",
     "PosRank": "QB101",
-    "Bye": 10
+    "Bye": 0
   },
   {
     "Rank": 897,
@@ -6755,9 +6755,9 @@
     "Rank": 916,
     "Player": "Shane Buechele",
     "Pos": "QB",
-    "Team": "BUF",
+    "Team": "IND",
     "PosRank": "QB106",
-    "Bye": 7
+    "Bye": 13
   },
   {
     "Rank": 917,
